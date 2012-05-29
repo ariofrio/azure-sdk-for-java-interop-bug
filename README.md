@@ -8,7 +8,7 @@ Install [Ruby for Windows][ruby], [Java SDK][java], and [Maven][] in your `PATH`
 
 Then run (PowerShell):
 
-   .\test.ps1
+    .\test.ps1
 
 Or (CMD.exe):
 
