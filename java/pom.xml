@@ -1,18 +1,13 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>edu.ucsb.cs.appscale.cicero</groupId>
+  <groupId>edu.ucsb.cs.appscale</groupId>
   <version>1</version>
-  <artifactId>backgroundworker</artifactId>
+  <artifactId>azure-sdk-bug-report-language-interop</artifactId>
   <dependencies>
     <dependency>
       <groupId>com.microsoft.windowsazure</groupId>
       <artifactId>microsoft-windowsazure-api</artifactId>
       <version>0.2.1</version>
-    </dependency>
-    <dependency>
-      <groupId>com.googlecode.json-simple</groupId>
-      <artifactId>json-simple</artifactId>
-      <version>1.1</version>
     </dependency>
   </dependencies>
   <build>
